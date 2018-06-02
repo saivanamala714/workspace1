@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+repositories/file\:_Users_admin_Documents_workspace1_.metadata_.plugins_org.eclipse.pde.core_.p2_org.eclipse.equinox.p2.core_cache/description=
+repositories/file\:_Users_admin_Documents_workspace1_.metadata_.plugins_org.eclipse.pde.core_.p2_org.eclipse.equinox.p2.core_cache/isSystem=true
+repositories/file\:_Users_admin_Documents_workspace1_.metadata_.plugins_org.eclipse.pde.core_.p2_org.eclipse.equinox.p2.core_cache/name=download cache
+repositories/file\:_Users_admin_Documents_workspace1_.metadata_.plugins_org.eclipse.pde.core_.p2_org.eclipse.equinox.p2.core_cache/provider=
+repositories/file\:_Users_admin_Documents_workspace1_.metadata_.plugins_org.eclipse.pde.core_.p2_org.eclipse.equinox.p2.core_cache/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
+repositories/file\:_Users_admin_Documents_workspace1_.metadata_.plugins_org.eclipse.pde.core_.p2_org.eclipse.equinox.p2.core_cache/uri=file\:/Users/admin/Documents/workspace1/.metadata/.plugins/org.eclipse.pde.core/.p2/org.eclipse.equinox.p2.core/cache/
+repositories/file\:_Users_admin_Documents_workspace1_.metadata_.plugins_org.eclipse.pde.core_.p2_org.eclipse.equinox.p2.core_cache/version=1
+repositories/http\:__download.eclipse.org_efxclipse_runtime-released_2.0.0_site/enabled=true
+repositories/http\:__download.eclipse.org_efxclipse_runtime-released_2.0.0_site/isSystem=false
+repositories/http\:__download.eclipse.org_efxclipse_runtime-released_2.0.0_site/uri=http\://download.eclipse.org/efxclipse/runtime-released/2.0.0/site
